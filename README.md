@@ -4,7 +4,7 @@ This is international collaboration project between Oamk and Fontys universities
 Project idea was to provide a platform where users can add their own animal or search already listed animals.
 
 <p float="left">
-  <img src="https://github.com/JoneMus/Swipper_frontend/assets/99409713/cae2b207-5eb3-4c03-8c3f-38da0b4b8f3d" alt="" width="150" height="300">
+  <img src="https://github.com/JoneMus/Swipper_frontend/assets/99409713/12ddec38-5a4a-4285-a5c8-30781992578b" alt="" width="150" height="300">
   <img src="https://github.com/JoneMus/Swipper_frontend/assets/99409713/f47cc956-9607-45ca-8083-5231a605af74" alt="" width="150" height="300">
 </p>
 

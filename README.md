@@ -9,7 +9,7 @@ Project idea was to provide a platform where users can add their own animal or s
 </p>
 
 ## My participation
-In the begining I was part of the desining process and helped to get final desing done. 
+In the beginning I was part of the desining process and helped to get final desing done. 
 When coding phase stared my main tasks were implementing Match page and settings. Later on I did bug fixing and added some features.
 
 ### Match page
@@ -27,9 +27,9 @@ When card is swiped to left, card goes under the deck and will appear again if d
 </p>
 Feed page displays all listed animals. User can filter listings to find specific animals.
 
-### UI Desing
+### UI Design
 ![uidesing](https://github.com/JoneMus/Swipper_frontend/assets/99409713/cc93353e-885e-4fae-a7ff-fe01bc9892e3)
-Final desing for the frontend.
+Final design for the frontend.
 
 ### Frontend team
 <ul>

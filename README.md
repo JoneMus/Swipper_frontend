@@ -10,7 +10,7 @@ Project idea was to provide a platform where users can add their own animal or s
 
 ## My participation
 In the beginning I was part of the desining process and helped to get final desing done. 
-When coding phase stared my main tasks were implementing Match page and settings. Later on I did bug fixing and added some features.
+When coding phase started my main tasks were implementing Match page and settings. Later on I did bug fixing and added some features.
 
 ### Match page
 <p float="left">
